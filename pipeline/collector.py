@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 import os
 
-from collections.abc import OrderedDict
+from collections import OrderedDict
 
 import django
 from django.contrib.staticfiles import finders
